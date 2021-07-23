@@ -1,4 +1,12 @@
 ### Hi there 👋
+## Hi! I'm Sirasit Boonklang, or in short "Aeff" 😎
+- Fresh graduated information engineering student
+- Passionate about technology, 
+- interested in Machine Learning
+-  Cloud Computing
+-  Internet of Things
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeff60)](https://github.com/anuraghazra/github-readme-stats)
 
 
