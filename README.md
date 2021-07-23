@@ -9,7 +9,7 @@
 - 📫 How to reach me: sirasit.b@outlook.co.th
 - 💖 😼 & 🐶
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeff60&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## ⚡ Technologies
 
@@ -31,6 +31,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeff60)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeff60&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
