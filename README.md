@@ -24,9 +24,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-
 <!--
 **aeff60/aeff60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeff60)](https://github.com/anuraghazra/github-readme-stats)
