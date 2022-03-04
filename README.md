@@ -2,7 +2,7 @@
 
 [Website](https://sway.office.com/icbCSKMj1PiBf0xc) •  [Twitter](https://twitter.com/aeff033)
 
-- ✨ I'm a Infomation engineer 
+- ✨ I'm a Technical Consultant @BorntoDev
 
 - 😄 My Pronouns: He/Him
 - 💬 Ask me about: Microsoft Azure
