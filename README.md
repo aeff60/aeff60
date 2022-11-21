@@ -23,6 +23,8 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+## ⚡ Badges 
+[![@aeff60's Holopin board](https://holopin.me/aeff60)](https://holopin.io/@aeff60)
 
 
 
