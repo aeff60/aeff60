@@ -1,15 +1,13 @@
 👋 Hi there! I'm Aef
 
-[Website](https://sway.office.com/icbCSKMj1PiBf0xc) •  [Twitter](https://twitter.com/aeff033)
+[Blog](https://www.borntodev.com/author/sirasit-b/) •  [Courses](https://school.borntodev.com/?search=Sirasit+Boonklang)
 
-- ✨ I'm a Technical Consultant @BorntoDev
-
+- ✨ I'm the Head of Tech Consulting @BorntoDev
+- 🏆 Microsoft MVP – Azure Application PaaS
 - 😄 My Pronouns: He/Him
 - 💬 Ask me about: Microsoft Azure
 - 📫 How to reach me: sirasit.b@outlook.co.th
 - 💖 😼 & 🐶
-
-
 
 ## ⚡ Technologies
 
@@ -25,23 +23,3 @@
 
 ## ⚡ Badges 
 [![@aeff60's Holopin board](https://holopin.me/aeff60)](https://holopin.io/@aeff60)
-
-
-
-
-<!--
-**aeff60/aeff60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeff60)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeff60&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeff60&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
